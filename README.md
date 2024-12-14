@@ -14,7 +14,7 @@ Google Colaboratory (Google Colab) を用いることで、個人の環境に依
 https://www.nicovideo.jp/watch/sm40386035 (v1.2.0.0)  
 
 ## ライセンス
-[LICENSE](https://github.com/AIITScience/MMVC_Trainer/blob/main/LICENSE)
+[LICENSE](https://github.com/AIITScience/MMVC_Trainer/blob/main/LICENSE.md)
 
 ## Requirement
 ・Google アカウント
