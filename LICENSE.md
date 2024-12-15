@@ -1,6 +1,6 @@
 ## MMVCの利用規約 及び MMVC用音源の配布先(2022/08/10)
 ### MMVCの利用規約
-MMVC(以下本ソフトウェア)の利用規約は、基本的に[MITライセンス](https://github.com/AIITScience/MMVC_Trainer/edit/main/LICENSE.md#mit-license%E7%BF%BB%E8%A8%B3%E6%B8%88%E3%81%BF)に準拠します。  
+MMVC(以下本ソフトウェア)の利用規約は、基本的に[MITライセンス](https://github.com/AIITScience/MMVC_Trainer/blob/main/LICENSE.md#mit-license%E7%BF%BB%E8%A8%B3%E6%B8%88%E3%81%BF)に準拠します。  
 1. 本ソフトウェアは、コピー利用、配布、変更の追加、変更を加えたものの再配布、商用利用、有料販売など、どなたでも自由にお使いいただくことができます。  
 2. ライセンスの記載が可能なプラットフォームで使用される場合、下記に示すライセンスパターンのどちらかの記載をお願いいたします。  
 **VRChatでの使用など、ライセンス記載が困難な場合、記載は不要です。**  
