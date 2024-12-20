@@ -32,7 +32,7 @@ v1.3.0.0は制作中だそうだ。
    - gitを使ってクローンします。→この場合、クローンされた場所がディレクトリです。
 2. 自分の声の音声データを録音します。方法:  
     - notebookディレクトリにある「00_Rec_Voice.ipynb」から自分の音声を録音します。(アプリではこちらを利用しています)
-    - 自分のPCで録音してGoogle Drive上に配置します。[特別感謝のコーパス](https://github.com/AIITScience/MMVC_Trainer/edit/main/README.md#special-thanks%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)や[MMVC用にテキストを分割したITAコーパス](https://drive.google.com/file/d/14oXoQqLxRkP8NJK8qMYGee1_q2uEED1z/view?usp=sharing)を台本にし、100文程度読み上げます。また、録音した音声は**24000Hz 16bit 1ch**である必要があります。
+    - 自分のPCで録音してGoogle Drive上に配置します。[特別感謝のコーパス](https://github.com/AIITScience/MMVC_Trainer/blob/main/README.md#special-thanks%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9)や[MMVC用にテキストを分割したITAコーパス](https://drive.google.com/file/d/14oXoQqLxRkP8NJK8qMYGee1_q2uEED1z/view?usp=sharing)を台本にし、100文程度読み上げます。また、録音した音声は**24000Hz 16bit 1ch**である必要があります。
 3. 録音した自分の声の音声データとその音声データに対応するテキスト、変換したい声の音声データとその音声データに対応するテキストを用意します。この時、用意する音声(自分の声の音声データ/変換したい声の音声データ共に)は**24000Hz 16bit 1ch**を強く推奨しております。
 4. 下記のようなディレクトリ構成になるように音声データとテキストデータを配置します。  
     - textfulの直下には2ディレクトリになります。
