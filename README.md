@@ -1,22 +1,18 @@
-MMVC_Trainer
-===
-AIを使ったリアルタイムボイスチェンジャーのモデル学習用ツール
-
-## Description
+## 概要
 AIを使ったリアルタイムボイスチェンジャー「MMVC(RealTime-Many to Many Voice Conversion)」 で使用するモデルを学習するためのリポジトリです。  
 Google Colaboratory (Google Colab) を用いることで、個人の環境に依存せず、かつ簡単に機械学習の学習フェーズを実行可能です。  
 
-## Concept
+## 概念
 「簡単」「だれでも」「好きな声に」「リアルタイムで」 
 
-## Demo
+## デモ
 v1.3.0.0は制作中だそうだ。
 [v1.2.0.0](https://www.nicovideo.jp/watch/sm40386035)   
 
 ## ライセンス
 [LICENSE](https://github.com/AIITScience/MMVC_Trainer/blob/main/LICENSE.md)
 
-## Requirement
+## 要件
 ・Google アカウント
 
 ## セットアップ
