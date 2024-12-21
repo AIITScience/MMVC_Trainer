@@ -1,5 +1,5 @@
 ## 概要
-AIを使ったリアルタイムボイスチェンジャー「MMVC(RealTime-Many to Many Voice Conversion)」 で使用するモデルを学習するためのリポジトリです。  
+AIを使ったリアルタイムボイスチェンジャー「MMVC(RealTime-Many to Many Voice Conversion)」 で使用するモデルを学習するためのソフトです。  
 Google Colaboratory (Google Colab) を用いることで、個人の環境に依存せず、かつ簡単に機械学習の学習フェーズを実行可能です。  
 
 ## 概念
