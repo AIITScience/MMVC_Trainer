@@ -144,7 +144,10 @@ MMVCに関する疑問・質問等の本家の開発者への問い合わせは[
 [vits](https://github.com/jaywalnut310/vits)  
 
 ## 本家のREADMEの著者
-[Isle Tennos Twitter](https://twitter.com/IsleTennos)  
+[![Static Badge](https://img.shields.io/badge/@IsleTennos-black?logo=x)](https://x.com/IsleTennos)  
+[PIXIV FANBOX](https://mmvc.fanbox.cc)
 
 ---
 このファイルは、[本家のREADME](https://github.com/isletennos/MMVC_Trainer/blob/main/README.md)を一部編集したものです。
+
+[![Static Badge](https://img.shields.io/badge/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AB%E6%88%BB%E3%82%8B-blue)](https://aiitscience.github.io/)
