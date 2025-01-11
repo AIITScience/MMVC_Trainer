@@ -19,7 +19,7 @@ v1.3.0.0は制作中だそうだ。
 2つのパターンがあります。
 ### アプリを頼る!!
 アプリを頼れば、簡単にセットアップできます!!
-1. [![Static Badge](https://img.shields.io/badge/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-green)](https://github.com/AIITScience/MMVC_Trainer/releases)
+1. [![Static Badge](https://img.shields.io/badge/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-green)](https://github.com/AIITScience/MMVC_Trainer/releases/download/v1/MMVC_Trainer-v1-release.apk)
 2. アプリの指示に従って自分のGoogle Drive上にインストールしてください。
 ### アプリなんかに頼らねえ!!
 #### Ph1. 自分の音声の録音と音声データの配置 及びターゲット音声データの配置
