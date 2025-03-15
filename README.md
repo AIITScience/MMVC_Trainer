@@ -23,9 +23,7 @@ v1.3.0.0は制作中だそうだ。
 2. アプリの指示に従って自分のGoogle Drive上にインストールしてください。
 ### アプリなんかに頼らねえ!!
 #### Ph1. 自分の音声の録音と音声データの配置 及びターゲット音声データの配置
-1. このリポジトリをクローンします。
-   - [![image](https://github.com/user-attachments/assets/d2c17268-174d-4a5c-8964-5716884019bd)](http://colab.research.google.com/github/isletennos/MMVC_Trainer/blob/main/notebook/00_Clone_Repo.ipynb)(アプリではこちらを利用しています)→この場合、Googleドライブがディレクトリです。
-   - gitを使ってクローンします。→この場合、クローンされた場所がディレクトリです。
+1. [![image](https://github.com/user-attachments/assets/d2c17268-174d-4a5c-8964-5716884019bd)](http://colab.research.google.com/github/isletennos/MMVC_Trainer/blob/main/notebook/00_Clone_Repo.ipynb)
 2. 自分の声の音声データを録音します。方法:  
     - notebookディレクトリにある「00_Rec_Voice.ipynb」から自分の音声を録音します。(アプリではこちらを利用しています)
     - 自分のPCで録音してGoogle Drive上に配置します。[特別感謝のコーパス](https://github.com/AIITScience/MMVC_Trainer/blob/main/README.md#special-thanks%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9%E9%A1%9E)や[MMVC用にテキストを分割したITAコーパス](https://drive.google.com/file/d/14oXoQqLxRkP8NJK8qMYGee1_q2uEED1z/view?usp=sharing)を台本にし、100文程度読み上げます。また、録音した音声は**24000Hz 16bit 1ch**である必要があります。
