@@ -10,7 +10,7 @@ v1.3.0.0は制作中だそうだ。
 [v1.2.0.0](https://www.nicovideo.jp/watch/sm40386035)   
 
 ## ライセンス
-[LICENSE](https://github.com/AIITScience/MMVC_Trainer/blob/main/LICENSE.md)
+本ソフトの利用許諾書は[AGREEMENT.md](https://github.com/AIITScience/MMVC_Trainer/blob/main/AGREEMENT.md)、本家がもとにしたソフトのライセンスは[vitsLICENSE.md](https://github.com/AIITScience/MMVC_Trainer/blob/main/vitsLICENSE.md)、textフォルダ内のライセンスは[text/LICENSE](https://github.com/AIITScience/MMVC_Trainer/blob/main/text/LICENSE)にあります。
 
 ## 要件
 ・Google アカウント
