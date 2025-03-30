@@ -21,6 +21,7 @@ v1.3.0.0は制作中だそうだ。
 アプリを頼れば、簡単にセットアップできます!!
 1. [![Static Badge](https://img.shields.io/badge/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-green)](https://github.com/AIITScience/MMVC_Trainer/releases/download/v2/MMVC_Trainer-v2-release.apk)
 2. アプリの指示に従って自分のGoogle Drive上にインストールしてください。
+
 ### アプリなんかに頼らねえ!!
 #### Ph1. 自分の音声の録音と音声データの配置 及びターゲット音声データの配置
 1. [![image](https://github.com/user-attachments/assets/d2c17268-174d-4a5c-8964-5716884019bd)](http://colab.research.google.com/github/isletennos/MMVC_Trainer/blob/main/notebook/00_Clone_Repo.ipynb)
@@ -60,6 +61,7 @@ dataset
 │        
 └── textless
 ```
+
 #### Ph2. モデルの学習方法
 1. 事前学習済みデータを配置します。  
     - 「00_Clone_Repo.ipynb」を利用しなかった場合や「fine_model」ディレクトリに下記ファイルが存在しなかった場合、以下の手順でファイルを配置してください。
